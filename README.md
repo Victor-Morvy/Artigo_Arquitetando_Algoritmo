@@ -38,3 +38,6 @@ Foi reduzido o código em 2/3 de seu tamanho, e o tempo entre a arquitetura e a 
 Não que toda e qualquer lógica que você for montar seja necessário passar por este processo, com o tempo, ao adquirir mais experiência os algorítmos vão sair naturalmente, evitando perda de tempo desnecessário.
 Mas o mesmo não se aplica a um software, que tendem ser complexos e é recomendado sempre utilizar da arquitetura de software antes de *botar a mão na massa*
 
+Veja o resultado final:
+![alt tag](https://github.com/Victor-Morvy/Artigo_Arquitetando_Algoritmo/blob/main/final.png?raw=true)
+![alt tag](https://github.com/Victor-Morvy/Artigo_Arquitetando_Algoritmo/blob/main/final2.png?raw=true)
