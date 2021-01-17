@@ -24,7 +24,7 @@ Veja o resultado no link (Apenas link):
 [CLIQUE PARA VER A IMAGEM](https://github.com/Victor-Morvy/Artigo_Arquitetando_Algoritmo/blob/main/1.png?raw=true)
 
 Depois dessa frustação, decidi aplicar a arquitetura nesse sistema, escrevi em uma folha de caderno a lógica que vai ia ser aplicada em mais ou menos 1:30h, este foi o resultado:
-![alt tag](https://github.com/Victor-Morvy/Artigo_Arquitetando_Algoritmo/blob/main/4.jpg?raw=true)
+![alt tag](https://github.com/Victor-Morvy/Artigo_Arquitetando_Algoritmo/blob/main/4.jpeg?raw=true)
 
 Então apliquei no Construct 2, em mais ou menos 1:00h e o resultado não poderia ser melhor, além de evitar condições repetidas e acumulo de bugs, o código refatorado agora está com 12 linhas.
 ![alt tag](https://github.com/Victor-Morvy/Artigo_Arquitetando_Algoritmo/blob/main/2.png?raw=true)
