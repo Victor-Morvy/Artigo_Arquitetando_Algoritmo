@@ -33,7 +33,7 @@ Então apliquei no Construct 2, em mais ou menos 1:00h e o resultado não poderi
 1/3 da quantidade de linhas e em um dia e meio a menos programando sem arquitetura de software.
 
 ### Conclusão
-Como mostrado os resultado, a vantagem em arquitetar uma lógica/software é gritante.
+Como mostrado os resultado, existe uma grande vantagem em arquitetar uma lógica/software.
 Foi reduzido o código em 2/3 de seu tamanho, e o tempo entre a arquitetura e a refatoração menos da metade do tempo que levei para escrever o primeiro código cheio de bugs.
 Não que toda e qualquer lógica que você for montar seja necessário passar por este processo, com o tempo, ao adquirir mais experiência os algorítmos vão sair naturalmente, evitando perda de tempo desnecessário.
 Mas o mesmo não se aplica a um software, que tendem ser complexos e é recomendado sempre utilizar da arquitetura de software antes de *botar a mão na massa*
